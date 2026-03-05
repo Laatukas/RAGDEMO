@@ -1,0 +1,12 @@
+Automation engineering integrates robotics, AI, and control systems (PLCs, sensors) to design, build, and service intelligent, efficient industrial machinery and systems. It focuses on enhancing productivity, safety, and sustainability in manufacturing and other sectors, offering roles in system design, maintenance, and IoT.
+
+Key Aspects and Applications
+Core Technologies: Involves robotics, fieldbus systems, data communication, and AIoT (Industrial Internet of Things).
+System Design: Engineers create Human-Machine Interfaces (HMIs) and program logic controllers (PLCs) to manage automated processes.
+Applications: Common in manufacturing (industry 4.0), smart homes, energy systems, and health technology.
+Sustainability: Focuses on improving energy efficiency in production and facilities. 
+
+Education and Career Pathways
+Degree Programs: Typically a Bachelor of Engineering (240 ECTS) featuring laboratory work, robotics, and simulation.
+Skills Developed: Expertise in measurement, control, and embedded systems.
+Career Opportunities: Roles include automation designer, robotics specialist, and project engineer in various industries. 
